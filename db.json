@@ -1,0 +1,49 @@
+{
+	"posts": [
+		{
+			"id": "url-example-1",
+			"title": "Title Example 1",
+			"description": "Description example 1",
+			"ratio": "16-9",
+			"cover": "00007.png"
+		},
+		{
+			"id": "url-example-2",
+			"title": "Title Example 2",
+			"description": "Description example 2",
+			"ratio": "2-3",
+			"cover": "00015.gif"
+		},
+		{
+			"id": "url-example-3",
+			"title": "Title Example 3",
+			"description": "Description example 3",
+			"ratio": "3-2",
+			"cover": "00024.jpg"
+		},
+		{
+			"id": "url-example-4",
+			"title": "Title Example 4",
+			"description": "Description example 4",
+			"ratio": "9-16",
+			"cover": "00023.gif"
+		},
+		{
+			"id": "url-example-5",
+			"title": "Title Example 5",
+			"description": "Description example 5",
+			"ratio": null,
+			"cover": "00004.png"
+		},
+		{
+			"id": "url-example-6",
+			"title": "Title Example 6",
+			"description": "Description example 6",
+			"ratio": "3-2",
+			"cover": "00025.png"
+		}
+	],
+	"profile": {
+		"name": "happyjacob"
+	}
+}
