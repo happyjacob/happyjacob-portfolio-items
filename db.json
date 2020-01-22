@@ -11,49 +11,49 @@
 			"id": "url-example-2",
 			"title": "Title Example 2",
 			"description": "Description example 2",
-			"ratio": "3-2",
+			"ratio": "4-3",
 			"cover": "002.png"
 		},
 		{
 			"id": "url-example-3",
 			"title": "Title Example 3",
 			"description": "Description example 3",
-			"ratio": "16-9",
+			"ratio": null,
 			"cover": "003.png"
 		},
 		{
 			"id": "url-example-4",
 			"title": "Title Example 4",
 			"description": "Description example 4",
-			"ratio": "3-2",
+			"ratio": "4-3",
 			"cover": "101.png"
 		},
 		{
 			"id": "url-example-5",
 			"title": "Title Example 5",
 			"description": "Description example 5",
-			"ratio": "9-16",
+			"ratio": "2-3",
 			"cover": "102.gif"
 		},
 		{
 			"id": "url-example-6",
 			"title": "Title Example 6",
 			"description": "Description example 6",
-			"ratio": "3-2",
+			"ratio": "4-3",
 			"cover": "201.png"
 		},
 		{
 			"id": "url-example-7",
 			"title": "Title Example 7",
 			"description": "Description example 7",
-			"ratio": "16-9",
+			"ratio": "3-2",
 			"cover": "202.gif"
 		},
 		{
 			"id": "url-example-8",
 			"title": "Title Example 8",
 			"description": "Description example 8",
-			"ratio": "3-2",
+			"ratio": "4-3",
 			"cover": "203.gif"
 		}
 	],
