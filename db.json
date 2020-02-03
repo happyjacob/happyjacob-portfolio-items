@@ -1,60 +1,88 @@
 {
 	"posts": [
 		{
-			"id": "url-example-1",
-			"title": "Title Example 1",
-			"description": "Description example 1",
+			"id": "mit-media-lab",
 			"ratio": null,
-			"cover": "001.gif"
+			"cover": "001.gif",
+			"title": "MIT Media Lab",
+			"description": "Creating a platform that reimagines how the MIT Media Lab collaborates and shares their work with the world.",
+			"scheme": {
+				"background": null,
+				"light": false
+			},
+			"body": "<p>For over 30 years, the MIT Media Lab has been at the forefront of technological and scientific innovation, across an ever-growing intersection of disciplines. With breakthroughs ranging from e-ink to reactive prosthetic limbs, the Lab has fostered a unique environment through which its 30+ independent research groups and initiatives can invent the future.</p><p>When Type/Code and the Media Lab begin the project, they were wrestling with a 10-year-old website that brittlely integrated the dozens of external systems that had accrued over the years. Being heavily dependent on manual content curation by the Lab’s Communications team, there was a huge opportunity to turn the Lab’s website into a living window into all of the amazing work that was happening. It was time to craft a digital platform that reimagined how all the members of the Media Lab community could document and share their work internally, and seamlessly share their breakthroughs with the rest of the world.</p><h3>Extending a modular brand system</h3><p>The Lab had recently conducted an identity redesign, brilliantly executed by Pentagram. To balance the Lab’s need for a strong unified voice while still empowering the autonomy of each research group, the new brand system leveraged the previous identity’s 7x7 grid to create a Media Lab “glyph” for the Lab as a whole, along with unique glyphs for each research group.</p><img src=\"https://tcp-prod.s3.amazonaws.com/images/mit.ui.1over1remix.v2.0.width-1600.jpg\" alt=\"\"><h3>Designing an extendable asset management system</h3><p>Beyond the need for powerful publishing tools and flexible content presentation models, the Media Lab had amassed vast amounts of content over its 30+ year history — with thousands of images, videos, and files scattered across a plethora of databases. While auditing the Lab’s existing systems during our Discovery process, it became clear that we should embark on a corollary effort to create a unified digital asset management system. After vetting several third-party tools against the Lab’s unique set of needs, we decided to design and build a custom solution.</p>"
 		},
 		{
-			"id": "url-example-2",
-			"title": "Title Example 2",
-			"description": "Description example 2",
+			"id": "american-documentary",
 			"ratio": "4-3",
-			"cover": "002.png"
+			"cover": "002.png",
+			"title": "American Documentary",
+			"description": "Building a home for films and the people that create them.",
+			"scheme": {
+				"background": "#eb3d6f",
+				"light": false
+			},
+			"body": "<p>For over 30 years, the MIT Media Lab has been at the forefront of technological and scientific innovation, across an ever-growing intersection of disciplines. With breakthroughs ranging from e-ink to reactive prosthetic limbs, the Lab has fostered a unique environment through which its 30+ independent research groups and initiatives can invent the future.</p><p>When Type/Code and the Media Lab begin the project, they were wrestling with a 10-year-old website that brittlely integrated the dozens of external systems that had accrued over the years. Being heavily dependent on manual content curation by the Lab’s Communications team, there was a huge opportunity to turn the Lab’s website into a living window into all of the amazing work that was happening. It was time to craft a digital platform that reimagined how all the members of the Media Lab community could document and share their work internally, and seamlessly share their breakthroughs with the rest of the world.</p><h3>Extending a modular brand system</h3><p>The Lab had recently conducted an identity redesign, brilliantly executed by Pentagram. To balance the Lab’s need for a strong unified voice while still empowering the autonomy of each research group, the new brand system leveraged the previous identity’s 7x7 grid to create a Media Lab “glyph” for the Lab as a whole, along with unique glyphs for each research group.</p><img src=\"https://tcp-prod.s3.amazonaws.com/images/mit.ui.1over1remix.v2.0.width-1600.jpg\" alt=\"\"><h3>Designing an extendable asset management system</h3><p>Beyond the need for powerful publishing tools and flexible content presentation models, the Media Lab had amassed vast amounts of content over its 30+ year history — with thousands of images, videos, and files scattered across a plethora of databases. While auditing the Lab’s existing systems during our Discovery process, it became clear that we should embark on a corollary effort to create a unified digital asset management system. After vetting several third-party tools against the Lab’s unique set of needs, we decided to design and build a custom solution.</p>"
 		},
 		{
-			"id": "url-example-3",
-			"title": "Title Example 3",
-			"description": "Description example 3",
+			"id": "tonic-by-canopy",
 			"ratio": null,
-			"cover": "003.png"
+			"cover": "003.png",
+			"title": "Tonic by Canopy",
+			"description": "Reimagining personalized content recommendations for the privacy age.",
+			"scheme": {
+				"background": "#ffffff",
+				"light": true
+			},
+			"body": "<p>For over 30 years, the MIT Media Lab has been at the forefront of technological and scientific innovation, across an ever-growing intersection of disciplines. With breakthroughs ranging from e-ink to reactive prosthetic limbs, the Lab has fostered a unique environment through which its 30+ independent research groups and initiatives can invent the future.</p><p>When Type/Code and the Media Lab begin the project, they were wrestling with a 10-year-old website that brittlely integrated the dozens of external systems that had accrued over the years. Being heavily dependent on manual content curation by the Lab’s Communications team, there was a huge opportunity to turn the Lab’s website into a living window into all of the amazing work that was happening. It was time to craft a digital platform that reimagined how all the members of the Media Lab community could document and share their work internally, and seamlessly share their breakthroughs with the rest of the world.</p><h3>Extending a modular brand system</h3><p>The Lab had recently conducted an identity redesign, brilliantly executed by Pentagram. To balance the Lab’s need for a strong unified voice while still empowering the autonomy of each research group, the new brand system leveraged the previous identity’s 7x7 grid to create a Media Lab “glyph” for the Lab as a whole, along with unique glyphs for each research group.</p><img src=\"https://tcp-prod.s3.amazonaws.com/images/mit.ui.1over1remix.v2.0.width-1600.jpg\" alt=\"\"><h3>Designing an extendable asset management system</h3><p>Beyond the need for powerful publishing tools and flexible content presentation models, the Media Lab had amassed vast amounts of content over its 30+ year history — with thousands of images, videos, and files scattered across a plethora of databases. While auditing the Lab’s existing systems during our Discovery process, it became clear that we should embark on a corollary effort to create a unified digital asset management system. After vetting several third-party tools against the Lab’s unique set of needs, we decided to design and build a custom solution.</p>"
 		},
 		{
-			"id": "url-example-4",
-			"title": "Title Example 4",
-			"description": "Description example 4",
-			"ratio": "4-3",
-			"cover": "101.png"
-		},
-		{
-			"id": "url-example-5",
-			"title": "Title Example 5",
-			"description": "Description example 5",
+			"id": "pivotal-benchmark-index",
 			"ratio": "2-3",
-			"cover": "102.gif"
+			"cover": "102.gif",
+			"title": "Pivotal Benchmark Index",
+			"description": "Creating a dynamic data visualization and analysis platform that explores how great development teams work.",
+			"scheme": {
+				"background": "#ce7952",
+				"light": false
+			},
+			"body": "<p>For over 30 years, the MIT Media Lab has been at the forefront of technological and scientific innovation, across an ever-growing intersection of disciplines. With breakthroughs ranging from e-ink to reactive prosthetic limbs, the Lab has fostered a unique environment through which its 30+ independent research groups and initiatives can invent the future.</p><p>When Type/Code and the Media Lab begin the project, they were wrestling with a 10-year-old website that brittlely integrated the dozens of external systems that had accrued over the years. Being heavily dependent on manual content curation by the Lab’s Communications team, there was a huge opportunity to turn the Lab’s website into a living window into all of the amazing work that was happening. It was time to craft a digital platform that reimagined how all the members of the Media Lab community could document and share their work internally, and seamlessly share their breakthroughs with the rest of the world.</p><h3>Extending a modular brand system</h3><p>The Lab had recently conducted an identity redesign, brilliantly executed by Pentagram. To balance the Lab’s need for a strong unified voice while still empowering the autonomy of each research group, the new brand system leveraged the previous identity’s 7x7 grid to create a Media Lab “glyph” for the Lab as a whole, along with unique glyphs for each research group.</p><img src=\"https://tcp-prod.s3.amazonaws.com/images/mit.ui.1over1remix.v2.0.width-1600.jpg\" alt=\"\"><h3>Designing an extendable asset management system</h3><p>Beyond the need for powerful publishing tools and flexible content presentation models, the Media Lab had amassed vast amounts of content over its 30+ year history — with thousands of images, videos, and files scattered across a plethora of databases. While auditing the Lab’s existing systems during our Discovery process, it became clear that we should embark on a corollary effort to create a unified digital asset management system. After vetting several third-party tools against the Lab’s unique set of needs, we decided to design and build a custom solution.</p>"
 		},
 		{
-			"id": "url-example-6",
-			"title": "Title Example 6",
-			"description": "Description example 6",
+			"id": "good-magazine",
 			"ratio": "4-3",
-			"cover": "201.png"
+			"cover": "201.png",
+			"title": "GOOD Magazine",
+			"description": "An editorial design that gives a damn.",
+			"scheme": {
+				"background": "#1645f4",
+				"light": false
+			},
+			"body": "<p>For over 30 years, the MIT Media Lab has been at the forefront of technological and scientific innovation, across an ever-growing intersection of disciplines. With breakthroughs ranging from e-ink to reactive prosthetic limbs, the Lab has fostered a unique environment through which its 30+ independent research groups and initiatives can invent the future.</p><p>When Type/Code and the Media Lab begin the project, they were wrestling with a 10-year-old website that brittlely integrated the dozens of external systems that had accrued over the years. Being heavily dependent on manual content curation by the Lab’s Communications team, there was a huge opportunity to turn the Lab’s website into a living window into all of the amazing work that was happening. It was time to craft a digital platform that reimagined how all the members of the Media Lab community could document and share their work internally, and seamlessly share their breakthroughs with the rest of the world.</p><h3>Extending a modular brand system</h3><p>The Lab had recently conducted an identity redesign, brilliantly executed by Pentagram. To balance the Lab’s need for a strong unified voice while still empowering the autonomy of each research group, the new brand system leveraged the previous identity’s 7x7 grid to create a Media Lab “glyph” for the Lab as a whole, along with unique glyphs for each research group.</p><img src=\"https://tcp-prod.s3.amazonaws.com/images/mit.ui.1over1remix.v2.0.width-1600.jpg\" alt=\"\"><h3>Designing an extendable asset management system</h3><p>Beyond the need for powerful publishing tools and flexible content presentation models, the Media Lab had amassed vast amounts of content over its 30+ year history — with thousands of images, videos, and files scattered across a plethora of databases. While auditing the Lab’s existing systems during our Discovery process, it became clear that we should embark on a corollary effort to create a unified digital asset management system. After vetting several third-party tools against the Lab’s unique set of needs, we decided to design and build a custom solution.</p>"
 		},
 		{
-			"id": "url-example-7",
-			"title": "Title Example 7",
-			"description": "Description example 7",
+			"id": "architizer",
 			"ratio": "3-2",
-			"cover": "202.gif"
+			"cover": "202.gif",
+			"title": "Architizer",
+			"description": "Organizing the world's largest database of architecture firms, projects, and products.",
+			"scheme": {
+				"background": null,
+				"light": false
+			},
+			"body": "<p>For over 30 years, the MIT Media Lab has been at the forefront of technological and scientific innovation, across an ever-growing intersection of disciplines. With breakthroughs ranging from e-ink to reactive prosthetic limbs, the Lab has fostered a unique environment through which its 30+ independent research groups and initiatives can invent the future.</p><p>When Type/Code and the Media Lab begin the project, they were wrestling with a 10-year-old website that brittlely integrated the dozens of external systems that had accrued over the years. Being heavily dependent on manual content curation by the Lab’s Communications team, there was a huge opportunity to turn the Lab’s website into a living window into all of the amazing work that was happening. It was time to craft a digital platform that reimagined how all the members of the Media Lab community could document and share their work internally, and seamlessly share their breakthroughs with the rest of the world.</p><h3>Extending a modular brand system</h3><p>The Lab had recently conducted an identity redesign, brilliantly executed by Pentagram. To balance the Lab’s need for a strong unified voice while still empowering the autonomy of each research group, the new brand system leveraged the previous identity’s 7x7 grid to create a Media Lab “glyph” for the Lab as a whole, along with unique glyphs for each research group.</p><img src=\"https://tcp-prod.s3.amazonaws.com/images/mit.ui.1over1remix.v2.0.width-1600.jpg\" alt=\"\"><h3>Designing an extendable asset management system</h3><p>Beyond the need for powerful publishing tools and flexible content presentation models, the Media Lab had amassed vast amounts of content over its 30+ year history — with thousands of images, videos, and files scattered across a plethora of databases. While auditing the Lab’s existing systems during our Discovery process, it became clear that we should embark on a corollary effort to create a unified digital asset management system. After vetting several third-party tools against the Lab’s unique set of needs, we decided to design and build a custom solution.</p>"
 		},
 		{
-			"id": "url-example-8",
-			"title": "Title Example 8",
-			"description": "Description example 8",
+			"id": "ochre",
 			"ratio": "4-3",
-			"cover": "203.gif"
+			"cover": "203.gif",
+			"title": "Ochre",
+			"description": "Creating a platform that reimagines how the MIT Media Lab collaborates and shares their work with the world.",
+			"scheme": {
+				"background": "#f0855b",
+				"light": false
+			},
+			"body": "<p>For over 30 years, the MIT Media Lab has been at the forefront of technological and scientific innovation, across an ever-growing intersection of disciplines. With breakthroughs ranging from e-ink to reactive prosthetic limbs, the Lab has fostered a unique environment through which its 30+ independent research groups and initiatives can invent the future.</p><p>When Type/Code and the Media Lab begin the project, they were wrestling with a 10-year-old website that brittlely integrated the dozens of external systems that had accrued over the years. Being heavily dependent on manual content curation by the Lab’s Communications team, there was a huge opportunity to turn the Lab’s website into a living window into all of the amazing work that was happening. It was time to craft a digital platform that reimagined how all the members of the Media Lab community could document and share their work internally, and seamlessly share their breakthroughs with the rest of the world.</p><h3>Extending a modular brand system</h3><p>The Lab had recently conducted an identity redesign, brilliantly executed by Pentagram. To balance the Lab’s need for a strong unified voice while still empowering the autonomy of each research group, the new brand system leveraged the previous identity’s 7x7 grid to create a Media Lab “glyph” for the Lab as a whole, along with unique glyphs for each research group.</p><img src=\"https://tcp-prod.s3.amazonaws.com/images/mit.ui.1over1remix.v2.0.width-1600.jpg\" alt=\"\"><h3>Designing an extendable asset management system</h3><p>Beyond the need for powerful publishing tools and flexible content presentation models, the Media Lab had amassed vast amounts of content over its 30+ year history — with thousands of images, videos, and files scattered across a plethora of databases. While auditing the Lab’s existing systems during our Discovery process, it became clear that we should embark on a corollary effort to create a unified digital asset management system. After vetting several third-party tools against the Lab’s unique set of needs, we decided to design and build a custom solution.</p>"
 		}
 	],
 	"profile": {
