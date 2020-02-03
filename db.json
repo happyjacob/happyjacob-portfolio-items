@@ -53,7 +53,7 @@
 			"ratio": "4-3",
 			"cover": "201.png",
 			"title": "GOOD Magazine",
-			"description": "An editorial design that gives a damn.",
+			"description": "An editorial design that gives a damn",
 			"scheme": {
 				"background": "#1645f4",
 				"light": false
@@ -65,7 +65,7 @@
 			"ratio": "3-2",
 			"cover": "202.gif",
 			"title": "Architizer",
-			"description": "The largest database of architecture firms, projects, and products.",
+			"description": "The largest database of architecture firms and products",
 			"scheme": {
 				"background": null,
 				"light": false
